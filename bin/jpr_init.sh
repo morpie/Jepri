@@ -35,5 +35,6 @@ INSERT INTO project_info (key,value) VALUES ('project_id','$PROJECT_ID');
 INSERT INTO project_info (key,value) VALUES ('project_creation_date','$PROJECT_CREATION_DATE');
 INSERT INTO project_info (key,value) VALUES ('ticket_types','issue release'); 
 INSERT INTO project_info (key,value) VALUES ('project_users','Admin $PROJECT_USERS');
+INSERT INTO project_info (key,value) VALUES ('ticket_status','open analysis development closed');
 EOS
 
